@@ -379,6 +379,9 @@ p {
     .home div {
         width: 100%;
     }
+    nav ul li {
+        display: block;
+    }
     .home p {
         font-size: 20px;
         line-height: 1.8;
